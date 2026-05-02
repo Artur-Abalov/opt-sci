@@ -80,18 +80,8 @@ Decay rates are fixed: $\Gamma_{21} = \Gamma_{31} = \Gamma_{42} = \Gamma_{43} = 
 
 ## Citation
 
-If you use this code, please cite:
-
-```
-[your citation here]
-```
-
 This implementation is derived from the PINN methodology described in:
 
 > Rackauckas, C. et al. (2019). DifferentialEquations.jl – A Performant and Feature-Rich Ecosystem for Solving Differential Equations in Julia. *Journal of Open Research Software*.
 
 > Sitzmann, V. et al. (2020). Implicit Neural Representations with Periodic Activation Functions. *NeurIPS*.
-
-## License
-
-[Specify your license, e.g. MIT]
